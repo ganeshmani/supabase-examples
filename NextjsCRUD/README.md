@@ -4,7 +4,7 @@ This is a simple todo application to explain the concept of Supbase integration 
 
 ## Demo
 
-![Demo](https://ibb.co/qj880Rm)
+![Demo](./Demo.gif)
 
 ## Environment Variables
 
